@@ -1,4 +1,4 @@
-
+v
 
 <h1 align="center">Hi 👋, I'm Shiva Kumar Sahoo</h1>
 <h3 align="center">Full-Stack Developer from India 🇮🇳</h3>
@@ -75,6 +75,7 @@
 <p align="left"> 
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&emsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&emsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&emsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&emsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&emsp;![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&emsp;
 </p>
 
@@ -85,3 +86,4 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva-kumar-sahoo&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-sahoo&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+
