@@ -1,4 +1,3 @@
-v
 
 <h1 align="center">Hi 👋, I'm Shiva Kumar Sahoo</h1>
 <h3 align="center">Full-Stack Developer from India 🇮🇳</h3>
