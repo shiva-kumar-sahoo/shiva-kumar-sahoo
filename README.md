@@ -147,15 +147,6 @@ Got an interesting idea? Want to collaborate? Or just want to talk tech?
 
 </div>
 
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
