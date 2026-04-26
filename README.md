@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Shiva Kumar Sahoo
+#  Shiva Kumar Sahoo
 
 ### Turning caffeine into code, one idea at a time ☕
 
