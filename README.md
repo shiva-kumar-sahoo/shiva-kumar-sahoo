@@ -1,88 +1,170 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shiva Kumar Sahoo</h1>
-<h3 align="center">Full-Stack Developer from India 🇮🇳</h3>
+# 💻 Shiva Kumar Sahoo
 
-<p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Ideas-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Odisha-success" />
-  <img src="https://komarev.com/ghpvc/?username=shiva-kumar-sahoo&color=brightgreen&style=flat-square" alt="views on github" />
-  <img src="https://img.shields.io/github/followers/shiva-kumar-sahoo.svg?style=social&label=Followers" />
-</p>
+### Turning caffeine into code, one idea at a time ☕
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F723&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+Products+That+Matter;From+Ideas+to+Reality;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=shiva-kumar-sahoo&color=00F723&style=flat-square&label=Profile+Views" />
+
+</div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F723&width=435&lines=From+Imaginations+to+Code+)](https://git.io/typing-svg)
 
+## 👨‍💻 About Me
 
+```javascript
+const shiva = {
+    location: "Odisha, India 🇮🇳",
+    age: 20,
+    role: "Full-Stack Developer",
+    journey: "Self-taught & Proud",
+    currentFocus: "Building ideas into reality",
+    workingOn: "Crafting scalable web & mobile applications",
+    learning: "Always exploring new tech stack",
+    funFact: "I debug faster when I'm excited about the idea 🚀"
+};
+```
 
+### What drives me?
+I'm not just writing code – I'm solving problems. Every project starts with a "what if?" and ends with something that actually works. Whether it's a mobile app or a full-stack web platform, I love the journey from concept to deployment.
 
-## Here's some fun facts about me: 
+---
 
-<img align="right" width=250px height=250px alt="side_sticker" src="https://i.imgur.com/5saE2kB.gif" />
+## 🛠️ Tech Arsenal
 
-- 🌱 I'm a self made developer
-- 📫 How to reach me **codewithshivakumar@gmail.com**
-- 💬 Ask me about NodeJS, React, NextJS, React Native, Java
-- ⚡ Fun fact **Always excited for ideas**
-
+<details open>
+<summary><b>💼 Languages I Speak (Code Fluently)</b></summary>
 <br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frameworks & Libraries</b></summary>
 <br>
 
+**Frontend Magic:**
 
-## Connect with me on 
-<p>
-<a target="_blank" href="https://t.me/shiva_kumar_sahoo"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:codewithshivakumar@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-&emsp;
-<a target="_blank" href="https://www.instagram.com/shiva_kumar_sahoo">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-   
-## 🛠️ My Skills
+**Mobile Development:**
 
-### 👉 Programming languages
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-<p align="left"> 
+**Backend Power:**
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💾 Databases & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Tools of the Trade</b></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-sahoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F723&icon_color=00F723&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-sahoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F723&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-kumar-sahoo&theme=radical&hide_border=true&background=0D1117&stroke=00F723&ring=00F723&fire=FF6D00&currStreakLabel=00F723" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-kumar-sahoo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F723&line=00F723&point=FFFFFF" />
+</div>
+
+---
+
+## 🌟 What I'm Up To
+
+```yaml
+current_work:
+  - "Building full-stack applications with MERN stack"
+  - "Developing cross-platform mobile apps with React Native"
+  - "Exploring microservices architecture"
   
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&emsp;![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&emsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&emsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&emsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&emsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-&emsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-</p>
+learning:
+  - "Advanced React patterns and performance optimization"
+  - "System design and scalability"
+  - "Cloud-native development practices"
 
-### 👉 Frameworks
+goals_2026:
+  - "Launch 3 production-ready projects"
+  - "Contribute more to open source"
+  - "Master DevOps practices"
+```
 
-<p align="left"> 
-  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&emsp;![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&emsp;![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)&emsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&emsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&emsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&emsp;![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-</p>
+---
 
-### 👉 Databases & Cloud Hosting
+## 💬 Let's Connect!
 
+Got an interesting idea? Want to collaborate? Or just want to talk tech?
 
-<p align="left"> 
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&emsp;![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&emsp;![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)&emsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&emsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) &emsp;
-</p>
+<div align="center">
 
- ### 👉 Software & Tools
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shiva_kumar_sahoo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithshivakumar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shiva_kumar_sahoo)
 
+</div>
 
-<p align="left"> 
-  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&emsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&emsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&emsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&emsp;
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&emsp;![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&emsp;
-</p>
+---
 
-## 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## 💭 Random Dev Quote
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva-kumar-sahoo&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-sahoo&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<div align="center">
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *"The best code is code that solves real problems"*
+
+**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+</div>
